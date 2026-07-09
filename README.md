@@ -1,8 +1,8 @@
 # Express-platinum-bank-quiz-
 
-# Platinum Quiz Earning Game
+# Platinum Quiz learrning Game
 
-A modern and responsive **Platinum Quiz Earning Game** built using **HTML5**, **CSS3**, **Bootstrap 5**, and **JavaScript**. The application provides an engaging quiz experience with a clean interface, instant feedback, score tracking, and a simulated earning system where users accumulate platinum points by answering questions correctly.
+A modern and responsive **Platinum Quiz learning Game** built using **HTML5**, **CSS3**, **Bootstrap 5**, and **JavaScript**. The application provides an engaging quiz experience with a clean interface, instant feedback, score tracking, and a simulated earning system where users accumulate platinum points by answering questions correctly.
 
 ---
 
